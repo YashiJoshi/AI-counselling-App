@@ -13,16 +13,12 @@ To enhance the user experience, Career Rec! also includes a built-in chatbot pow
 - **Interactive Chatbot:**  Engage in deeper conversations about recommended careers with a helpful chatbot.
 - **Chat History Export:** Conveniently share your chat history via email or WhatsApp.
 
-### Preview
-
-https://github.com/jeryjs/Career-Recommendation-App-Flutter/assets/77010142/a2c33b85-8bd8-4143-9542-3aed1b8fee94
-
 ### Build Instructions
 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/jeryjs/Career-Recommendation-App-Flutter.git
+   https://github.com/YashiJoshi/AI-counselling-App.git
    ```
 
 2. **Install dependencies:**
