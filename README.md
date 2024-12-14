@@ -26,6 +26,7 @@ To enhance the user experience, Career Rec! also includes a built-in chatbot pow
    ```bash
    flutter pub get
    ```
+   https://github.com/jeryjs/Career-Recommendation-App-Flutter/assets/77010142/a2c33b85-8bd8-4143-9542-3aed1b8fee94
 
 3. **Obtain a Google AI Studio API Key:**
 
